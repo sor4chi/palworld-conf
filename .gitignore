@@ -1,0 +1,11 @@
+steamapps
+/Pal/*
+!/Pal/Saved
+/Pal/Saved/*
+!/Pal/Saved/Config
+/Pal/Server/Config/*
+!/Pal/Server/Config/LinuxServer
+linux64
+Engine
+steamclient.so
+Manifest*
